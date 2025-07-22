@@ -1,4 +1,4 @@
-#Program that takes an integer from user and tels if integer is odd or even
+#Program that takes an integer from user and tels if integer is odd or even.
 
 num = int(input("Enter a number : "))
 
