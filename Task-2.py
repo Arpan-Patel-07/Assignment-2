@@ -1,4 +1,4 @@
-#Program to calculate the sum of number 1 to 50.
+#Program to calculate the sum of number 1 to 50
 
 
 sum = 0
